@@ -1,0 +1,11 @@
+chromadb==0.5.3
+pdfplumber
+pyMuPDF
+torch
+langchain
+open-clip-torch
+Pillow
+openai
+pandas
+glob2
+requests
